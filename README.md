@@ -57,7 +57,7 @@ Follow these steps to get the project running on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone [YOUR_GITHUB_REPOSITORY_URL]
+git clone [https://github.com/alborzbm/AI-Tutor-Chatbot]
 cd AI-Tutor-Chatbot
 ```
 
