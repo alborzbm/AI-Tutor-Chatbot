@@ -1,4 +1,4 @@
-# 🤖 AI Tutor Chatbot
+# AI Tutor Chatbot
 
 A sophisticated RAG (Retrieval-Augmented Generation) chatbot designed to answer questions about Artificial Intelligence by referencing a curated knowledge base of key academic papers. This project features a robust FastAPI backend for its core logic and an interactive Streamlit UI for a seamless user experience.
 
@@ -8,7 +8,7 @@ A sophisticated RAG (Retrieval-Augmented Generation) chatbot designed to answer 
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 -   **RAG Architecture:** Utilizes a Retrieval-Augmented Generation pipeline to provide answers grounded in factual documents, preventing model hallucination and providing verifiable sources.
 -   **Local LLM:** Powered by Llama 3 running locally via Ollama, ensuring privacy and eliminating API costs.
@@ -18,7 +18,7 @@ A sophisticated RAG (Retrieval-Augmented Generation) chatbot designed to answer 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 The application follows a standard RAG pipeline:
 
@@ -29,7 +29,7 @@ The application follows a standard RAG pipeline:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,7 +44,7 @@ The application follows a standard RAG pipeline:
 
 ---
 
-## 🚀 Setup and Installation
+## Setup and Installation
 
 Follow these steps to get the project running on your local machine.
 
@@ -98,7 +98,7 @@ This command creates a `faiss_index` folder, which serves as the chatbot's memor
 
 ---
 
-## 🏃 Usage
+## Usage
 
 There are two primary ways to run this application: fully local for development, or with a Dockerized backend.
 
@@ -147,7 +147,7 @@ streamlit run ui.py
 
 ---
 
-## 📚 Knowledge Base Content
+## Knowledge Base Content
 
 The knowledge base for this chatbot was built using several foundational papers in AI, including:
 
@@ -160,7 +160,7 @@ The knowledge base for this chatbot was built using several foundational papers 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 AI-Tutor-Chatbot/
@@ -179,7 +179,7 @@ AI-Tutor-Chatbot/
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
@@ -189,5 +189,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Alborz Babazadeh**
 
--   **LinkedIn:** `[YOUR_LINKEDIN_PROFILE_URL]`
--   **GitHub:** `[YOUR_GITHUB_PROFILE_URL]`
+-   **LinkedIn:** `[https://github.com/alborzbm]`
+-   **GitHub:** `[https://www.linkedin.com/in/alborzbabazadeh/]`
